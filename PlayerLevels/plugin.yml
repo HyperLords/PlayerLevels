@@ -1,0 +1,15 @@
+name: PlayerLevels
+version: LevelAddons
+authors: [OyunTarayici]
+main: com.OyunTarayici.PlayerLevels.LevelsMain
+soft-depends:
+- BukkitApi
+
+commands:
+  playerlevels:
+    usage: /playerlevels help
+    description: Levels plugin
+    aliases:
+    - levels
+    - playerlevel
+    - level
